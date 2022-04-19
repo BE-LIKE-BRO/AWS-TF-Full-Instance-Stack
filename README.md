@@ -17,5 +17,5 @@ Created EBS volumes and attached it to instance
 Output private and public IP address of instance on terminal upon creation
 And execution is completed, TFstate file will be stored in specified s3 bucket 
 
-To test run this Terraform, modify the 'MYIP' variable and backend s3
+To test run this Terraform, create new key-pair, modify instance key-pair value, modify the 'MYIP' variable and backend s3
 
