@@ -1,4 +1,4 @@
-# TF-Full-Instance-Stack
+# AWS-TF-Full-Instance-Stack
 Fully provisioned AWS Instance setup with terraform
 
 This repository contains TF codes that creates a fully working aws ec2 instance environment provisioned with a bash script that pulls, unzips and hosts a webpage
