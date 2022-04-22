@@ -19,3 +19,4 @@ And execution is completed, TFstate file will be stored in specified s3 bucket
 
 To test run this Terraform, create new key-pair, modify instance key-pair value, modify the 'MYIP' variable and backend s3
 
+Confirm deployment success by accessing the instance's port 80 on your browser. That is, input 'instance-ip:80' in your browser; a webpage should open. 
